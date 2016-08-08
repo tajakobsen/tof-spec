@@ -62,5 +62,9 @@ TODO
 
 ### Article list view
 
- * Show image, title, 
+ * Show `Image`, `Title`, `PublishedDate`
+
+### Article detail view
+
+TODO
 
