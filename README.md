@@ -46,33 +46,33 @@ TODO
 
 ## Views
 
-### Event List
+### 1. Event List
 
  * List all upcoming `Events`.
  * Show expired events on current day with striketrough (~~Like this~~)
  * Show `Title`, `Location`,`Start`, `End` (and formatted to/from time)
  * Navigate to older events
 
-### Event detail view
+### 2. Event detail view
  
  * Show all fields
  * Show list of `Songs` related to this event
  
-### Song detail view
+### 3. Song detail view
 
  * Show all fields
 
-### Article list view
+### 4. Article list view
 
  * Show `Image`, `Title`, `PublishedDate`, `Introtext`
 
-### Article detail view
+### 5. Article detail view
 
 TODO
 
-### Landing page
+### 6. Landing page
 
  * Join-button → Join page (describing how to join)
  * Contact information
- * 
+ * Grasrotandelen-button
 
