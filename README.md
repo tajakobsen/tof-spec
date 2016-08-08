@@ -68,3 +68,9 @@ TODO
 
 TODO
 
+### Landing page
+
+ * Join-button → Join page (describing how to join)
+ * Contact information
+ * 
+
