@@ -21,7 +21,7 @@
  * ComposerLastName
  * ArrangedBy
  * Level (`Integer`)
- * ArchiveUrl
+ * ArchiveUrl (*Only visible when logged in*)
  * VideoUrl
 
 ## Blog
