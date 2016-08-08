@@ -34,6 +34,7 @@
 #### Article
 
  * Title
+ * Introtext
  * Body
  * Image
  * Related (`[Article]`)
@@ -55,7 +56,7 @@ TODO
 ### Event detail view
  
  * Show all fields
- * Show list of songs related to this event
+ * Show list of `Songs` related to this event
  
 ### Song detail view
 
@@ -63,7 +64,7 @@ TODO
 
 ### Article list view
 
- * Show `Image`, `Title`, `PublishedDate`
+ * Show `Image`, `Title`, `PublishedDate`, `Introtext`
 
 ### Article detail view
 
