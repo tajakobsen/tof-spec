@@ -25,6 +25,7 @@
  * ComposerLastName
  * ArrangedBy
  * Level (`Integer`)
+ * ArciveNumber (`Integer`)
  * ArchiveUrl (*Only visible when logged in*)
  * VideoUrl
 
