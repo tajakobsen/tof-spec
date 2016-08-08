@@ -1,8 +1,10 @@
 # Specification for the new TOF Webpage
 
-## Events
+## ContentTypes
 
-### Event content-type
+### Events
+
+#### Event content-type
 
  * Title
  * Description
@@ -12,8 +14,9 @@
  * GoogleMapsUrl
  * Image
  * Songs (`[Song]`)
+ * ContactPerson (`User`)
 
-### Song
+#### Song
 
  * Title
  * Notes
@@ -24,9 +27,9 @@
  * ArchiveUrl (*Only visible when logged in*)
  * VideoUrl
 
-## Blog
+### Blog
 
-### Article
+#### Article
 
  * Title
  * Body
@@ -34,3 +37,8 @@
  * Related (`[Article]`)
  * RelatedEvents (`[Event]`)
  
+#### Comments
+
+TODO
+
+
