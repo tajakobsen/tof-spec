@@ -16,6 +16,7 @@
  * Songs (`[Song]`)
  * ContactPerson (`User`)
  * DressCode
+ * Type ({Rehersal, Concert, Dugnad, Party})
 
 #### Song
 
