@@ -22,6 +22,7 @@
 
  * Title
  * Notes
+ * Duration
  * ComposerFirstName
  * ComposerLastName
  * ArrangedBy
